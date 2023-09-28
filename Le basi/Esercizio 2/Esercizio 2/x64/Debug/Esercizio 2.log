@@ -1,0 +1,4 @@
+﻿  Esercizio 2.cpp
+C:\Users\asus\Desktop\Progetti\Esercizio 2\Esercizio 2\Esercizio 2.cpp(14,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asus\Desktop\Progetti\Esercizio 2\Esercizio 2\Esercizio 2.cpp(16,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Esercizio 2.vcxproj -> C:\Users\asus\Desktop\Progetti\Esercizio 2\x64\Debug\Esercizio 2.exe
